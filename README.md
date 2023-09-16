@@ -1,24 +1,13 @@
+**Because the original HBMonitor by N0MJS and other forks are no longer being developed per their specific author's,**
+**this is my attempt to maintain, to some degree and with limited support, the most commonly used version of HBMonitor**
+**which my version which includes some small changes so far, was forked from SP2ONG's version**
+
+**You can try to use a more updated version provided by OA4DOA found at https://github.com/yuvelq/FDMR-Monitor**
 
 
-**HBMonitor no longer developing**
+Though it has been recommend not running HBmonitor on the same computer as HBlink3, I have not had any issues in doing so.
 
-**Try to use more updated version by OA4DOA: https://github.com/yuvelq/FDMR-Monitor**
-
-
-**HBmonitor is a "web dashboard" for HBlink by N0MJS.**
-
-**New version of HBMonitor V2 (2021):**
-
-https://github.com/sp2ong/HBMonv2
-
-
-***This is version of HBMonitor V1 by SP2ONG 2019-2021***
-
-I recommend not running HBmonitor on the same computer as HBlink3
-
-HBmonitor tested on Debian v9 STRETCH
-
-HBMonitor V1:
+HBMonitor V1.1:
     cd /opt
     git clone https://github.com/sp2ong/HBmonitor.git
     cd HBmonitor
