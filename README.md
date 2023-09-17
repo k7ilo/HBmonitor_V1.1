@@ -1,10 +1,11 @@
-**Because the original HBMonitor by N0MJS and other forks are no longer being developed per their specific author's,**
-**this is my attempt to maintain, to some degree and with limited support, the most commonly used version of HBMonitor**
-**I've seen**
+**Because the original HBMonitor by N0MJS and other forks are no longer being developed per their specific author's,<br>
+this is my attempt to maintain to some degree and with limited support, the most (to my knowledge) used version of HBMonitor**
+
 **My version, forked from SP2ONG's version, as of right now only includes some very small changes**
+
 **You can try to use a more updated version provided by OA4DOA found at https://github.com/yuvelq/FDMR-Monitor**
 
-Though it has been recommend not running HBmonitor on the same computer as HBlink3, I have not had any issues in doing so.
+Though it has been recommend in the pass not running HBmonitor on the same computer as HBlink3, I have not had any issues in doing so.<br>
 
 Copyright (C) 2013-2018  Cortney T. Buffington, N0MJS <n0mjs@me.com>
 
